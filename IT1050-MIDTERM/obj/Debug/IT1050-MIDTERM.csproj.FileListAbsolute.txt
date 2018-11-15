@@ -1,0 +1,7 @@
+C:\Users\AJ\source\repos\IT1050-MIDTERM\IT1050-MIDTERM\bin\Debug\IT1050-MIDTERM.exe.config
+C:\Users\AJ\source\repos\IT1050-MIDTERM\IT1050-MIDTERM\bin\Debug\IT1050-MIDTERM.exe
+C:\Users\AJ\source\repos\IT1050-MIDTERM\IT1050-MIDTERM\bin\Debug\IT1050-MIDTERM.pdb
+C:\Users\AJ\source\repos\IT1050-MIDTERM\IT1050-MIDTERM\obj\Debug\IT1050-MIDTERM.csprojAssemblyReference.cache
+C:\Users\AJ\source\repos\IT1050-MIDTERM\IT1050-MIDTERM\obj\Debug\IT1050-MIDTERM.csproj.CoreCompileInputs.cache
+C:\Users\AJ\source\repos\IT1050-MIDTERM\IT1050-MIDTERM\obj\Debug\IT1050-MIDTERM.exe
+C:\Users\AJ\source\repos\IT1050-MIDTERM\IT1050-MIDTERM\obj\Debug\IT1050-MIDTERM.pdb
